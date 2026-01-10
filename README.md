@@ -1,13 +1,14 @@
 # shufl
 
 ## Description
-Project shufl
+Vector shuffling utility ("shufl"). Allows shuffling values into a vector and draining them.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Provide efficient shuffling
+- [ ] Support `heapless` vectors
 
 ## Progress
-- [ ] Initial setup
+- [ ] Crate initialized
 
 ---
 *AI assisted*
